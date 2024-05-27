@@ -1,6 +1,6 @@
 
-# Anirudh Raju Singa
+# Howdy, I'm Anirudh!
 
 
 ## Projects
-### TAGE Branch Predictor | Computer Architecture
+### [TAGE Branch Predictor] (https://github.com/AnirudhSinga/TAGE_BP) | Computer Architecture
