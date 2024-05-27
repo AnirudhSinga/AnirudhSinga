@@ -3,4 +3,4 @@
 
 
 ## Projects
-# TAGE Branch Predictor | Computer Architecture
+### TAGE Branch Predictor | Computer Architecture
