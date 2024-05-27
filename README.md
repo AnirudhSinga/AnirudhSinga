@@ -3,4 +3,5 @@
 
 
 ## Projects
-### [TAGE Branch Predictor] (https://github.com/AnirudhSinga/TAGE_BP) | Computer Architecture
+- <b>Computer Architecture (AlgoExpert)</b>
+  - [TAGE Branch Predictor] (https://github.com/AnirudhSinga/TAGE_BP)
