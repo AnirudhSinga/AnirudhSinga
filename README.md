@@ -5,3 +5,5 @@
 ## Projects
 - <b>Computer Architecture </b>
   - <a href="https://github.com/AnirudhSinga/TAGE_BP">TAGE Branch Predictor</a>
+- <b>Machine Learning </b>
+  - <a href="https://github.com/AnirudhSinga/ResNet18_NN">ResNet18 Deep Neural Network</a>
